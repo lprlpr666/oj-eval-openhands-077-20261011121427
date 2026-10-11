@@ -1,0 +1,11 @@
+CMakeFiles/
+CMakeCache.txt
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.log
+*.tmp
+.DS_Store
